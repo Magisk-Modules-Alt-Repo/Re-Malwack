@@ -7,7 +7,6 @@
 
 ![Hosts Update Status](https://img.shields.io/badge/Hosts_update_status-Daily-green)
 ![Module Version](https://img.shields.io/badge/Module_Version-v5.2.1-green)
-[![Download](https://img.shields.io/github/downloads/Magisk-Modules-Alt-Repo/Re-Malwack/total?&cacheSeconds=2)](https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/releases)
 ![Hosts Update Time](https://img.shields.io/badge/Hosts_update_Time-≈19:30_UTC-green)
 ![Built with](https://img.shields.io/badge/Made_with-Love-red)
 [![Channel](https://img.shields.io/badge/Channel-ZGTechs-252850?color=blue&logo=telegram)](https://t.me/ZGTechs)
@@ -35,7 +34,7 @@
 
 ## Download Module
 > [!TIP]
-You can download the module from [Releases](https://github.com/ZG089/Re-Malwack/releases/latest) section.
+You can download the module from [Releases](https://github.com/Magisk-Modules-Alt-Repo/Re-Malwack/releases/latest) section.
 
 
 ## Get started
